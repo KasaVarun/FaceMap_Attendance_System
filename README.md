@@ -58,6 +58,15 @@ git push origin new-feature
 
 Open a pull request to merge your changes into the main repository.
 
+## Outputs
+
+![Screenshot 2023-08-25 184351](https://github.com/KasaVarun/FaceMap_Attendance_System/assets/68395933/1a75b4f5-793c-49a2-9650-be423db2b77f)
+
+![Screenshot 2023-08-25 184333](https://github.com/KasaVarun/FaceMap_Attendance_System/assets/68395933/7fbac79d-8159-4f8b-8e18-004076f161e0)
+
+![Screenshot 2023-08-25 184313](https://github.com/KasaVarun/FaceMap_Attendance_System/assets/68395933/23efdae0-3739-48a5-974f-6edd7e8a6033)
+
+
 ## License
 This project is licensed under the MIT License.
 
