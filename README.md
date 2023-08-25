@@ -66,6 +66,9 @@ Open a pull request to merge your changes into the main repository.
 
 ![Screenshot 2023-08-25 184313](https://github.com/KasaVarun/FaceMap_Attendance_System/assets/68395933/23efdae0-3739-48a5-974f-6edd7e8a6033)
 
+## Team Members
+Kasa Varun, Vincent Samuel.
+
 
 ## License
 This project is licensed under the MIT License.
